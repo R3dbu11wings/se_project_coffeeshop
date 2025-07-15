@@ -122,6 +122,10 @@
   margin: 0;
 }
 
+.recipes__iframe {
+  border: none;
+}
+
 .recipes__subtitle {
   margin: 0 0 80px;
   max-width: 438px;
@@ -190,6 +194,7 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  border-radius: 4px;
 }
 
 .form__button {
